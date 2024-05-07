@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e2f73608-2843-43e2-adc3-031993af715c">
+  <producedTypes>
+    <objectType typeId="57ab16c2-7a70-4985-aa8e-86cd76e67c67" valueTypeId="bcb1eec4-4d73-4201-88ae-7021e1504304"/>
+    <refType typeId="9537199d-c769-4966-b6e6-1a9c33391829" valueTypeId="af2ed2b8-334d-4861-b6fe-3b23b0ab01df"/>
+    <selectionType typeId="9241cd05-f340-46a1-ab05-9ab2517e5753" valueTypeId="f8e060b0-844d-4c3d-bc96-9da4d3b4e508"/>
+    <listType typeId="f38b4320-3551-441a-b454-92c1cc792b7c" valueTypeId="1c6c1269-06f8-4ae8-9021-bbfd896ade0e"/>
+    <managerType typeId="545106fc-12b4-4435-9f6d-09d4d426f751" valueTypeId="d736c80d-9b15-4d5f-9266-967b12c22dc2"/>
+  </producedTypes>
+  <name>ДоставкаПрисоединенныеФайлы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Доставка присоединенные файлы</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ДоставкаПрисоединенныеФайлы.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Присоединенный файл (Доставка)</value>
+  </objectPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>150</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
